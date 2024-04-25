@@ -1,0 +1,1 @@
+Hacer un script al que pasamos como parámetros el nombre y dos apellidos y visualizar las iniciales. Por ejemplo, si ponemos Maria Perez Gutierrez debemos genera M.P.G
